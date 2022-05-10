@@ -7,4 +7,8 @@ Using tweet data from before the COVID-19 pandemic, as well as the COVID-HATE da
 we performed transfer learning. 
 We tested several different models, including BERT, RoBERTa, LSTM, and BERT-CNN.  
 Some of these models hindered the performance of He et al’s model, while others improved it. 
+
 We also explored the geographical extent of the ani-Asain tweets from the COVID-HATE dataset.
+
+![global](images/world_hate_tweet.png)
+![usa](images/usa_hate_tweet.png)
