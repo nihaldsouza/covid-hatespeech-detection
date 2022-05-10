@@ -11,4 +11,6 @@ Some of these models hindered the performance of He et al’s model, while other
 We also explored the geographical extent of the ani-Asain tweets from the COVID-HATE dataset.
 
 ![global](images/world_hate_tweet.png)
+
+Since a large majority of the tweets originated from U.S.A., here is a map showing the distribution within this country.
 ![usa](images/usa_hate_tweet.png)
