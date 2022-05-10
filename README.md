@@ -8,6 +8,8 @@ we performed transfer learning.
 We tested several different models, including BERT, RoBERTa, LSTM, and BERT-CNN.  
 Some of these models hindered the performance of He et al’s model, while others improved it. 
 
+You can access the full report here: [Report](docs/report.pdf)
+
 We also explored the geographical extent of the ani-Asain tweets from the COVID-HATE dataset.
 
 ![global](images/world_hate_tweet.png)
